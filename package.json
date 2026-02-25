@@ -1,0 +1,9 @@
+{
+  "name": "article-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs-extra": "^11.2.0"
+  }
+}
